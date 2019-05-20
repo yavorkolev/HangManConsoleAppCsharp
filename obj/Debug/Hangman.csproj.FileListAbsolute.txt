@@ -1,0 +1,7 @@
+C:\Users\yavor\source\repos\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\yavor\source\repos\Hangman\bin\Debug\Hangman.exe
+C:\Users\yavor\source\repos\Hangman\bin\Debug\Hangman.pdb
+C:\Users\yavor\source\repos\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\yavor\source\repos\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\yavor\source\repos\Hangman\obj\Debug\Hangman.exe
+C:\Users\yavor\source\repos\Hangman\obj\Debug\Hangman.pdb
